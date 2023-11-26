@@ -16,14 +16,6 @@ The main objective is to analyze factors such as travel distance, delays, and de
 - `Shinkansen.csv`: The cleaned and processed dataset resulting from the analysis.
 - `README.md`: An overview of the analysis and findings.
 
-## Data Dictionary
-| Variable                  | Description                                      | Type      |
-|---------------------------|--------------------------------------------------|-----------|
-| ID                        | Unique identifier for each survey response       | int64     |
-| Overall_Experience        | Satisfaction level (1: Satisfied, 0: Not)        | int64     |
-| Seat_Comfort              | Comfort of the seat                              | object    |
-| ...                       | ...                                              | ...       |
-
 ## Insights and Recommendations
 - **Service Quality Over Distance and Delays**: Travel distance and delays had a negligible correlation with passenger satisfaction, suggesting that service quality and onboard amenities might play a more crucial role.
 - **Demographic Impact**: Gender and age significantly impact satisfaction levels. Elderly and younger demographics show differing levels of satisfaction, highlighting a potential need for targeted service improvements.
