@@ -12,9 +12,11 @@ The main objective is to analyze factors such as travel distance, delays, and de
 - How do travel distance and delay times correlate with passenger satisfaction?
 
 ## Repository Structure
-- `shinki_EDA.ipynb`: The Jupyter notebook containing the exploratory data analysis and visualizations.
-- `Shinkansen.csv`: The cleaned and processed dataset resulting from the analysis.
-- `README.md`: An overview of the analysis and findings.
+- `shinki_EDA.ipynb`: The Jupyter notebook containing the exploratory data analysis and visualizations
+- 'cleaned_travel.csv': The cleaned data about passenger's trip such as distance travelled
+- 'cleaned_survey.csv': The cleaned data of passenger's feedback of their trip such as cleanliness rating
+- `Shinkansen.csv`: The cleaned and merged dataset
+- `README.md`: An overview of the analysis and insights and recommendations.
 
 ## Insights and Recommendations
 - **Service Quality Over Distance and Delays**: Travel distance and delays had a negligible correlation with passenger satisfaction, suggesting that service quality and onboard amenities might play a more crucial role.
