@@ -1,3 +1,4 @@
+![N700 series Shinkansen](https://www.japanhouselondon.uk/assets/New-Discover-page/_resampled/FillWyI3MjgiLCI0MDgiXQ/Shinkansen-Landing-page-banner.jpg)
 # Shinkansen Passenger Satisfaction Analysis
 
 ## Introduction
