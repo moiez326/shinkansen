@@ -2,10 +2,10 @@
 # Shinkansen passenger satisfaction analysis
 
 ## Introduction
-The Shinkansen, also known as the bullet train, plays a pivotal role in Japan's transportation system, famed for its punctuality and speed. Despite this, passenger satisfaction reports show only a 56% satisfaction rate. This project delves into various factors affecting passenger satisfaction with the goal of providing actionable insights to improve the overall travel experience.
+The Shinkansen, also known as the bullet train, plays a pivotal role in Japan's transportation system, famed for its punctuality and speed. Despite this, passenger satisfaction reports show only a 56% satisfaction rate. 
 
 ### Objective
-The main objective is to analyze factors such as travel distance, delays, and demographic variables to uncover their impact on passenger satisfaction. The insights from this analysis aim to assist the travel industry in enhancing service quality and the passenger experience.
+The main objective is to analyze feedback on various aspects of onboard service and delays, and demographics to uncover their impact on passenger satisfaction. The insights from this analysis aim to assist the travel industry in enhancing service quality and the passenger experience.
 
 ### Key Questions
 - What factors most influence passenger satisfaction on the Shinkansen?
