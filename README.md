@@ -21,6 +21,8 @@ The main objective is to analyze feedback on various aspects of onboard service 
 ## Insights and recommendations
 - **Service Quality Over Distance and Delays**: Travel distance and delays had a negligible correlation with passenger satisfaction, suggesting that service quality and onboard amenities might play a more crucial role.
 - **Demographic Impact**: Gender and age significantly impact satisfaction levels. Elderly and younger demographics show differing levels of satisfaction, highlighting a potential need for targeted service improvements.
+![age-group and gender satisfaction](https://github.com/moiez326/shinkansen/blob/main/media/Screenshot%202023-12-06%20at%2011.58.55.png)
+
 - **Focus Areas for Enhancement**: With service quality identified as a key driver of satisfaction, focusing on aspects such as onboard comfort, catering, and entertainment could yield positive results in passenger satisfaction scores.
 
 ## Conclusion
